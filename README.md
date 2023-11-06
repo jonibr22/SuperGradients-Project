@@ -5,3 +5,4 @@ This library is an another high-level extension of PyTorch, similar to Lightning
 Please visit my Kaggle Notebook for convenient re-running experience:<br>
 - Classification:
 https://www.kaggle.com/code/jonathanibrahim/supergradients-vit-l-resnet-50/
+- Segmentation: https://www.kaggle.com/code/jonathanibrahim/supergradients-ddrnet-segformer/
